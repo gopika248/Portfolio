@@ -21,10 +21,8 @@ document.addEventListener('DOMContentLoaded', () => {
   // You can easily customize these roles for your own portfolio:
   const roles = [
     "DATA ANALYST",
-    "PYTHON & SQL ENTHUSIAST",
     "POWER BI DEVELOPER",
-    "DATA STORYTELLER",
-    "CRITICAL PROBLEM SOLVER"
+    "SQL & PYTHON ENTHUSIAST"
   ];
 
   let roleIndex = 0;

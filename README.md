@@ -32,10 +32,10 @@ workshop/
 │
 └── assets/
     └── images/
-        ├── profile.jpg   # Hero profile portrait
-        ├── project1.jpg  # Customer Churn dashboard preview
-        ├── project2.jpg  # E-Commerce Sales dashboard preview
-        └── project3.jpg  # Healthcare Clinical Analytics dashboard preview
+        ├── GOPIKA portfolio.jpeg # Hero profile portrait (Gopika T K)
+        ├── project1.jpg          # Customer Churn dashboard preview
+        ├── project2.jpg          # E-Commerce Sales dashboard preview
+        └── project3.jpg          # Healthcare Clinical Analytics dashboard preview
 ```
 
 ---
@@ -90,7 +90,7 @@ This project has been structured with clear comments in each file to make it str
 - Place your photo inside `assets/images/` (e.g., `assets/images/my_photo.jpg`).
 - In `index.html`, find:
   ```html
-  <img src="assets/images/profile.jpg" alt="Profile" class="img-fluid profile-image">
+  <img src="assets/images/GOPIKA portfolio.jpeg" alt="Profile" class="img-fluid profile-image">
   ```
   Change `profile.jpg` to your image filename.
 
